@@ -100,8 +100,6 @@ CONFIG_OPTS = \
 	--enable-kernel-libipsec \
 	--enable-tkm \
 	--enable-ntru \
-	--enable-lookip \
-	--enable-bliss \
 	--enable-sha3 \
 	--enable-newhope \
 	--enable-frodo \
