@@ -101,7 +101,6 @@ CONFIG_OPTS = \
 	--enable-tkm \
 	--enable-ntru \
 	--enable-sha3 \
-	--enable-newhope \
 	--enable-frodo \
 	--enable-systemd \
 	--enable-counters \
