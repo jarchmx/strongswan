@@ -99,7 +99,6 @@ CONFIG_OPTS = \
 	--enable-libipsec \
 	--enable-kernel-libipsec \
 	--enable-tkm \
-	--enable-ntru \
 	--enable-sha3 \
 	--enable-frodo \
 	--enable-systemd \
